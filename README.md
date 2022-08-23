@@ -10,11 +10,11 @@ Thus, using Meetanshi’s Magento 2 SMTP extension get your emails delivered to 
 
 
 ## Features of Magento 2 SMTP Extension:
-●     Easily configure the Magento SMTP settings to send and receive emails.
-●     Facilitates supporting three providers: Mandrill, Amazon AWS and Gmail.
-●     Magento 2 SMTP extension allows sending test emails.
-●     The admin can list all the sent emails with details such as subject, status and date of creation from the backend.
-●     Offers debug mode for testing.
-●     Facilitates running a successful email campaign without ending up in a spam folder.
+*Easily configure the Magento SMTP settings to send and receive emails.
+*Facilitates supporting three providers: Mandrill, Amazon AWS and Gmail.
+*Magento 2 SMTP extension allows sending test emails.
+*The admin can list all the sent emails with details such as subject, status and date of creation from the backend.
+*Offers debug mode for testing.
+*Facilitates running a successful email campaign without ending up in a spam folder.
  
  For more information, visit ***[https://meetanshi.com/magento-2-smtp.html](https://meetanshi.com/magento-2-smtp.html)***
